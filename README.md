@@ -48,24 +48,39 @@
   <img src="https://www.gitskins.com/api/section/projects?username=tomatteo&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133718412%3Fu%3D84f807fc33f86a01688c0848e521bb5438ba756b%26v%3D4" alt="tomatteo projects visual" />
 </p>
 
-- **[Mock-Discord](https://github.com/tomatteo/Mock-Discord)** — Reprodução funcional e responsiva da interface web do Discord, desenvolvida com HTML5, CSS3 e JavaScript.
-- **[Sistema-de-Biblioteca](https://github.com/tomatteo/Sistema-de-Biblioteca)** — Sistema de gerenciamento de biblioteca implementado com Estruturas de Dados em Linguagem C.
+- **[Mock-Discord](https://github.com/tomatteo/Mock-Discord)** — Reprodução funcional e responsiva da interface web do Discord, desenvolvida com HTML5, CSS3 e JavaScript e PHP.
+- **[Pokédex](https://github.com/tomatteo/pokedex)** — Aplicativo mobile desenvolvido em Flutter/Dart que consome dados da PokéAPI em tempo real.
 - **[organizador-de-evento](https://github.com/tomatteo/organizador-de-evento)** — Aplicação desenvolvida aplicando conceitos de Programação Orientada a Objetos (POO).
-- **[Projeto-Meddie](https://github.com/lenikvikk-code/Projeto-Meddie)** — Projeto colaborativo desenvolvido em equipe.
+- **[Projeto-Meddie](https://github.com/lenikvikk-code/Projeto-Meddie)** — Assistente de IA projetado para rodar localmente no PC, com foco em privacidade e execução offline.
 
 </details>
 
 <details open>
-<summary><b>🧰 Tecnologias & Ferramentas</b></summary>
+<summary><b>💻 Tech Stack</b></summary>
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,php,js,ts,react,vite,tailwind,html,css,mysql,postgres,supabase,linux,docker,git" alt="Stack tecnológica" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=tomatteo&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133718412%3Fu%3D84f807fc33f86a01688c0848e521bb5438ba756b%26v%3D4" alt="tomatteo stack visual" />
-</p>
+<div>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 </details>
 
