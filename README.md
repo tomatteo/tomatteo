@@ -51,7 +51,7 @@
 - **[Mock-Discord](https://github.com/tomatteo/Mock-Discord)** — Reprodução funcional e responsiva da interface web do Discord, desenvolvida com HTML5, CSS3 e JavaScript.
 - **[Sistema-de-Biblioteca](https://github.com/tomatteo/Sistema-de-Biblioteca)** — Sistema de gerenciamento de biblioteca implementado com Estruturas de Dados em Linguagem C.
 - **[organizador-de-evento](https://github.com/tomatteo/organizador-de-evento)** — Aplicação desenvolvida aplicando conceitos de Programação Orientada a Objetos (POO).
-- **[tad-matriz](https://github.com/tomatteo/tad-matriz)** — Implementação de Tipo Abstrato de Dados (TAD) para manipulação de matrizes.
+- **[Projeto-Meddie](https://github.com/lenikvikk-code/Projeto-Meddie)** — Projeto colaborativo desenvolvido em equipe.
 
 </details>
 
