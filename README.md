@@ -45,10 +45,21 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=tomatteo&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133718412%3Fu%3D84f807fc33f86a01688c0848e521bb5438ba756b%26v%3D4" alt="tomatteo projects visual" />
+  <a href="https://github.com/tomatteo/Mock-Discord">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatteo&repo=Mock-Discord&theme=tokyonight&hide_border=true" alt="Mock-Discord" />
+  </a>
+  <a href="https://github.com/lenikvikk-code/Projeto-Meddie">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenikvikk-code&repo=Projeto-Meddie&theme=tokyonight&hide_border=true" alt="Projeto-Meddie" />
+  </a>
+  <a href="https://github.com/tomatteo/pokedex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatteo&repo=pokedex&theme=tokyonight&hide_border=true" alt="Pokédex" />
+  </a>
+  <a href="https://github.com/tomatteo/organizador-de-evento">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomatteo&repo=organizador-de-evento&theme=tokyonight&hide_border=true" alt="organizador-de-evento" />
+  </a>
 </p>
 
-- **[Mock-Discord](https://github.com/tomatteo/Mock-Discord)** — Reprodução funcional e responsiva da interface web do Discord, desenvolvida com HTML5, CSS3 e JavaScript e PHP.
+- **[Mock-Discord](https://github.com/tomatteo/Mock-Discord)** — Reprodução funcional e responsiva da interface web do Discord, desenvolvida com HTML5, CSS3, JavaScript e PHP.
 - **[Pokédex](https://github.com/tomatteo/pokedex)** — Aplicativo mobile desenvolvido em Flutter/Dart que consome dados da PokéAPI em tempo real.
 - **[organizador-de-evento](https://github.com/tomatteo/organizador-de-evento)** — Aplicação desenvolvida aplicando conceitos de Programação Orientada a Objetos (POO).
 - **[Projeto-Meddie](https://github.com/lenikvikk-code/Projeto-Meddie)** — Assistente de IA projetado para rodar localmente no PC, com foco em privacidade e execução offline.
